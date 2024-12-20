@@ -32,7 +32,7 @@ export default function RootLayout({
     "title": "Open Gift",
     "action": {
       "type": "launch_frame",
-      "name": "YourAppName",
+      "name": "Gift",
       "url": "https://main.d337pf8gj8cpmm.amplifyapp.com/frame",
       "splashImageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com/splash.png",
       "splashBackgroundColor": "#14532D"

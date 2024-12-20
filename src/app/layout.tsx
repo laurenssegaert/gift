@@ -24,6 +24,22 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className=" bg-green-900">
+      <head>
+      <meta name="fc:frame" content='{
+  "version": "next",
+  "imageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com/splash.png",
+  "button": {
+    "title": "Open Gift",
+    "action": {
+      "type": "launch_frame",
+      "name": "YourAppName",
+      "url": "https://main.d337pf8gj8cpmm.amplifyapp.com/frame",
+      "splashImageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com/splash.png",
+      "splashBackgroundColor": "#14532D"
+    }
+  }
+}' />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

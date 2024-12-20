@@ -1,0 +1,15 @@
+{
+    "accountAssociation": {
+      "header": "base64url-encoded JFS header",
+      "payload": "base64url-encoded payload",
+      "signature": "base64url-encoded signature"
+    },
+    "frame": {
+      "name": "Gift",
+      "description": "This one is send to you with love",
+      "url": "https://main.d337pf8gj8cpmm.amplifyapp.com//frame",
+      "imageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com//path-to-image.png",
+      "splashImageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com//path-to-splash-image.png",
+      "splashBackgroundColor": "#14532D"
+    }
+  }

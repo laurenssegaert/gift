@@ -25,7 +25,7 @@ export default function StackedSVGsWithSDK() {
     >
       <p
         className={`font-tiny5 text-green-200 text-center  text-4xl transform -translate-y-48 top-64 text-xl font-bold  transition-opacity   ${
-          isToggled ? 'duration-200 opacity-0 ' : 'delay-200 duration-300 opacity-100'
+          isToggled ? 'duration-200 opacity-0 ' : 'delay-200 duration-400 opacity-100'
         }`}
         style={{ zIndex: 4 }}
       >

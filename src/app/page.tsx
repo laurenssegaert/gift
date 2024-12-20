@@ -8,7 +8,7 @@ const Demo = dynamic(() => import('./components/Demo'), {
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col p-4">
+    <main className="h-screen flex flex-col overflow-hidden">
       <Demo />
     </main>
   );

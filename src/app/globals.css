@@ -16,8 +16,10 @@
   }
 }
 
-body {
+body,html {
   color: var(--foreground);
   background: var(--background);
   font-family: 'Tiny5', Arial, Helvetica, sans-serif;
+  padding:0;
+  margin:0;
 }

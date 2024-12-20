@@ -20,7 +20,7 @@ export default function StackedSVGsWithSDK() {
   return (
     <div className="bg-green-900">
     <div
-      className="scale-100 relative flex items-center transform translate-y-32 justify-center w-full h-screen bg-green-900 "
+      className="relative flex items-center transform translate-y-32 justify-center w-full h-screen bg-green-900 "
       onClick={handleToggle}
     >
       <p

@@ -34,7 +34,7 @@ export default function RootLayout({
       "type": "launch_frame",
       "name": "Gift",
       "url": "https://main.d337pf8gj8cpmm.amplifyapp.com/",
-      "splashImageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com/splash.png",
+      "splashImageUrl": "https://main.d337pf8gj8cpmm.amplifyapp.com/green.png",
       "splashBackgroundColor": "#14532D"
     }
   }
